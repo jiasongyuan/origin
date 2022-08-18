@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello ,i am dev_wnag
+=======
+this is main2 too
+>>>>>>> dev
