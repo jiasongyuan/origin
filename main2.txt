@@ -19,5 +19,10 @@ i am so cool
 =======
 this is main2
 hhhh
+<<<<<<< HEAD
 >>>>>>> dev
 asd3
+=======
+sadsad
+asdasd2222
+>>>>>>> dev
