@@ -9,4 +9,9 @@ asdasd2
 =======
 
 now i dont want 
+<<<<<<< HEAD
+>>>>>>> dev_wang
+=======
+
+i am so cool
 >>>>>>> dev_wang
