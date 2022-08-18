@@ -1,7 +1,12 @@
 saddas
 
 my name is wang 
+<<<<<<< HEAD
 now i not want to work
 hahha
 asdasd
 asdasd2
+=======
+
+now i dont want 
+>>>>>>> dev_wang
